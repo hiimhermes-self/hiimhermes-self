@@ -1,4 +1,4 @@
-## Hi, I'm Emin
+## Hi, I'm atmacamavi
 
 I build small, practical systems tools — mostly Python, running on Arch Linux.
 I like quiet utilities that do one thing well: backups, config sync, log watching,
